@@ -1,67 +1,41 @@
-# Smart-Energy-Dashboard
-
-### Prerequisites:
-1. **Node.js and npm:** Ensure that you have Node.js and npm installed on your machine. You can download them from [https://nodejs.org/](https://nodejs.org/).
-
-### Steps:
-
-1. **Clone the Repository:**
-   - Open your terminal or command prompt.
-   - Navigate to the directory where you want to clone the project.
-   - Run the following command to clone the repository:
-
-     ```bash
-     git clone <clone-link>
-     ```
+Real-time smart energy monitoring system. Get the power consumption trends from your appliances and get the alerts when crossing the set budget and Voltage fluctuations as well.
+The remaining part is user-profiles and Login.
+![curr](https://github.com/Aryan570/soup/assets/91080682/711ce46b-b807-4dff-bebd-3b120260ce0a)
 
 
-2. **Navigate to the Project Directory:**
-   - Use the `cd` command to move into the project directory:
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-     ```bash
-     cd your-repository
-     ```
+## Getting Started
 
-3. **Install Dependencies:**
-   - Run the following command to install the project dependencies:
+First, run the development server:
 
-     ```bash
-     npm install
-     ```
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-4. **Build the Project:**
-   - Run the build command to generate the necessary files:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-     ```bash
-     npm run build
-     ```
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-5. **Start the App:**
-   - After the build is successful, start the application:
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-     ```bash
-     npm start
-     ```
-Before running the app, in a separate terminal in your project directory do the following
-1. **Install `json-server` globally:**
-   
-   Open your terminal or command prompt and run:
+## Learn More
 
-   ```bash
-   npm install -g json-server
-   ```
+To learn more about Next.js, take a look at the following resources:
 
-2. **Run `json-server` with your `db.json` file:**
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-   Navigate to the directory containing your `db.json` file in your terminal and run:
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-   ```bash
-   json-server --watch db.json --port 3000
-   ```
+## Deploy on Vercel
 
-   This command will start a server at `http://localhost:3000` using the data from your `db.json` file.
-Certainly! Here are the steps to run a Next.js project from a GitHub repository on your local machine:
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-**Access the App:**
-   - Open a web browser and navigate to [http://localhost:3000](http://localhost:3000) to view your running Next.js app.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
