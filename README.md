@@ -1,4 +1,4 @@
-##About Project
+## About Project
 Designed and implemented a real-time smart energy monitoring system that provides power consumption trends for appliances and alerts users of budget breaches and voltage fluctuations
 
 ![WhatsApp Image 2024-03-03 at 17 25 12_4e67c42e](https://github.com/vanshikash/Smart-Energy-Dashboard/assets/78431790/07e12a9b-96f7-445d-8619-7f975d8f8cd3)
