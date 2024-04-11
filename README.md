@@ -1,6 +1,6 @@
-Real-time smart energy monitoring system. Get the power consumption trends from your appliances and get the alerts when crossing the set budget and Voltage fluctuations as well.
-The remaining part is user-profiles and Login.
-![curr](https://github.com/Aryan570/soup/assets/91080682/711ce46b-b807-4dff-bebd-3b120260ce0a)
+Designed and implemented a real-time smart energy monitoring system that provides power consumption trends for appliances and alerts users of budget breaches and voltage fluctuations
+![curr](![WhatsApp Image 2024-03-03 at 17 25 12_d7b54d57](https://github.com/vanshikash/Smart-Energy-Dashboard/assets/78431790/25537d9c-c775-43b9-ac2d-2cd59803408b)
+)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
